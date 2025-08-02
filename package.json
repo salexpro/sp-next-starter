@@ -36,7 +36,7 @@
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.4.1",
     "@eslint/js": "^9.10.0",
-    "@next/bundle-analyzer": "15.4.4",
+    "@next/bundle-analyzer": "15.4.5",
     "@types/react": "19.1.9",
     "@types/react-dom": "19.1.7",
     "eslint": "^9.10.0",
